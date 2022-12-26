@@ -1,0 +1,16 @@
+D:\CustomApps\RWTC\RWTC\bin\Debug\RWTC.exe.config
+D:\CustomApps\RWTC\RWTC\bin\Debug\RWTC.exe
+D:\CustomApps\RWTC\RWTC\bin\Debug\RWTC.pdb
+D:\CustomApps\RWTC\RWTC\obj\Debug\RTC.csproj.AssemblyReference.cache
+D:\CustomApps\RWTC\RWTC\obj\Debug\RTC.csproj.SuggestedBindingRedirects.cache
+D:\CustomApps\RWTC\RWTC\obj\Debug\MainWindow.g.cs
+D:\CustomApps\RWTC\RWTC\obj\Debug\App.g.cs
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC_MarkupCompile.cache
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC_MarkupCompile.lref
+D:\CustomApps\RWTC\RWTC\obj\Debug\MainWindow.baml
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC.g.resources
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC.Properties.Resources.resources
+D:\CustomApps\RWTC\RWTC\obj\Debug\RTC.csproj.GenerateResource.cache
+D:\CustomApps\RWTC\RWTC\obj\Debug\RTC.csproj.CoreCompileInputs.cache
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC.exe
+D:\CustomApps\RWTC\RWTC\obj\Debug\RWTC.pdb
